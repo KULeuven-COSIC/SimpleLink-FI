@@ -1,0 +1,12 @@
+pyserial
+numpy
+jupyter
+bokeh
+matplotlib
+pycryptodome
+scipy
+scared
+chipwhisperer
+unicorn
+capstone
+tqdm

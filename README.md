@@ -1,5 +1,6 @@
 # Non-invasive physical attacks on SimpleLink microcontrollers
-This repository contains artifacts for the paper titled 'On the susceptibility of Texas Instruments SimpleLink platform microcontrollers to non-invasive physical attacks'. Link to the full paper: [PLACEHOLDER](https://google.com)
+This repository contains artifacts for the paper titled 'On the susceptibility of Texas Instruments SimpleLink platform microcontrollers to non-invasive physical attacks'. 
+The paper is available on [ePrint](https://eprint.iacr.org/2022/328.pdf).
 
 In short, the paper covers:
 * extracting the ROM bootloader of Texas Instruments SimpleLink microcontrollers

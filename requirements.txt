@@ -10,3 +10,4 @@ chipwhisperer
 unicorn
 capstone
 tqdm
+cmsis_svd
